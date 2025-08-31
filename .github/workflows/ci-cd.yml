@@ -1,8 +1,5 @@
 name: Go
-on:
-  push:
-    branches: ["new_workflow"]
-
+on: push
 jobs:
 
   build:
